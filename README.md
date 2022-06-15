@@ -19,7 +19,7 @@ This data is then taken from the RoomDB and is prepared by the view model for pr
 - Displays Current, Hourly, and Daily Weather in user specified time and unit format
 - Displays Alerts such as heat warnings, tornados, etc
 ## Getting Started
-Git clone https://github.com/xuanniu/WeatherApp.git  
+- Git clone https://github.com/xuanniu/WeatherApp.git  
 - Install Android Studio  
 - Get an api key from the following websites
   - https://openweathermap.org/
