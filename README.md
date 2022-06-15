@@ -20,14 +20,14 @@ This data is then taken from the RoomDB and is prepared by the view model for pr
 - Displays Alerts such as heat warnings, tornados, etc
 ## Getting Started
 Git clone https://github.com/xuanniu/WeatherApp.git  
-Install Android Studio  
-Get an api key from the following websites
-- https://openweathermap.org/
-- https://www.geoapify.com/address-autocomplete
-- https://console.cloud.google.com/apis/dashboard  
+- Install Android Studio  
+- Get an api key from the following websites
+  - https://openweathermap.org/
+  - https://www.geoapify.com/address-autocomplete
+  - https://console.cloud.google.com/apis/dashboard  
   
-Store the api keys in the local.properties file of the app  
-Create an emulator device or use your own android device through android studio  
-Launch the app
+- Store the api keys in the local.properties file of the app  
+- Create an emulator device or use your own android device through android studio  
+- Launch the app
 
 
