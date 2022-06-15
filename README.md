@@ -25,6 +25,7 @@ Get an api key from the following websites
 - https://openweathermap.org/
 - https://www.geoapify.com/address-autocomplete
 - https://console.cloud.google.com/apis/dashboard  
+  
 Store the api keys in the local.properties file of the app  
 Create an emulator device or use your own android device through android studio  
 Launch the app
